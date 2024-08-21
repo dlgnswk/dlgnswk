@@ -1,28 +1,17 @@
-<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) -->
-![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dllgnswk@gmail.com)
-![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4)
-
-<h2>😄 Jaehoon Lee</h2>
-– Frontend Developer<br/>
-– <a href="https://drive.google.com/file/d/1_mHdBK3UNv7XVwweo7PtSt_4B7An4sE8/view?usp=sharing">RESUME</a><br/>
+# Jaehoon Lee (이재훈)
+> 매일 배우는 프론트엔드 개발자입니다.
 
 <br/>
 
-<h2>💻 Projects</h2>
-– <a href="https://chunky.site">Chunky</a> | <a href="https://github.com/dlgnswk/chunky">Github Repository</a><br/>
-– <a href="https://readim.site">Readim</a> | <a href="https://github.com/team-sticky-252/readim-client">Client Repository</a>, <a href="https://github.com/team-sticky-252/readim-server">Server Repository</a><br/>
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) -->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dllgnswk@gmail.com)](mailto:dllgnswk@gmail.com) 
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4)](https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4)
 
-<!--
-**dlgnswk/dlgnswk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Project
+Chunky: <a href="https://chunky.site">Website</a> | <a href="https://github.com/dlgnswk/chunky">Git Repo</a><br/>
+Readim: <a href="https://readim.site">Website</a> | <a href="https://github.com/team-sticky-252/readim-client">Frontend Repo</a>, <a href="https://github.com/team-sticky-252/readim-server">Backe Repo</a><br/>
 
-Here are some ideas to get you started:
+### Activity
+Vanilla Coding Bootcamp 1th (2024.04 ~ 2024.07)<br/>
+쌍용 강북교육센터 풀스택 개발자 과정 수료 (2023.05 ~ 2024.01)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
