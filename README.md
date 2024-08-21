@@ -9,7 +9,7 @@
 
 ### Project
 Chunky: <a href="https://chunky.site">Website</a> | <a href="https://github.com/dlgnswk/chunky">Git Repo</a><br/>
-Readim: <a href="https://readim.site">Website</a> | <a href="https://github.com/team-sticky-252/readim-client">Frontend Repo</a>, <a href="https://github.com/team-sticky-252/readim-server">Backe Repo</a><br/>
+Readim: <a href="https://readim.site">Website</a> | <a href="https://github.com/team-sticky-252/readim-client">Frontend Repo</a>, <a href="https://github.com/team-sticky-252/readim-server">Backend Repo</a><br/>
 
 ### Activity
 Vanilla Coding Bootcamp 1th (2024.04 ~ 2024.07)<br/>
