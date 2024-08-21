@@ -1,4 +1,4 @@
-# Jaehoon Lee (이재훈)
+## Jaehoon Lee (이재훈)
 > 매일 배우는 프론트엔드 개발자입니다.
 
 <br/>
