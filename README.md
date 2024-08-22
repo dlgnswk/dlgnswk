@@ -13,5 +13,5 @@
 
 ### Activity
 − Vanilla Coding Bootcamp 1th (2024.04 ~ 2024.07)<br/>
-− 쌍용 강북교육센터 풀스택 개발자 과정 수료 (2023.05 ~ 2024.01)
+− Ssangyong Institute Center Gangbuk Full Stack Developer Course(2023.05 ~ 2024.01)
 
