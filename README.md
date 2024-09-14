@@ -8,7 +8,7 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&link=https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4)](https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4)
 
 ### Interested
-− JavaScript, TypeScript, React<br/>
+− _**JavaScript**_, _**TypeScript**_, _**React**_, _**Next.js**_<br/>
 − UX, CDD, Agile, CI/CD<br/>
 
 ### Project
