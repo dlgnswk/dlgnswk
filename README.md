@@ -8,8 +8,8 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&link=https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4)](https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4)
 
 ### Interested
-− _**JavaScript**_, _**TypeScript**_, _**React**_, _**Remix**_<br/>
-− UI/UX, CDD, Agile<br/>
+− _**JavaScript**_, _**TypeScript**_, _**React**_, _**Remix**_, _**Three.js**_<br/>
+− shadcn/ui, storybook, design pattern<br/>
 
 ### Project
 − Chunky: <a href="https://chunky.site">Website</a> | <a href="https://github.com/dlgnswk/chunky">Git Repo</a><br/>
