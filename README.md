@@ -7,7 +7,7 @@
 
 ### Interested
 − _**JavaScript**_, _**TypeScript**_, _**React**_, _**Next.js & Remix**_, _**Three.js**_<br/>
-− shadcn/ui, storybook, design pattern<br/>
+− CSS in JS, Storybook<br/>
 
 ### Project
 − Chunky: <a href="https://chunky.site">Website</a> | <a href="https://github.com/dlgnswk/chunky">Git Repo</a><br/>
