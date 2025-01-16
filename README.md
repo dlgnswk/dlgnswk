@@ -10,7 +10,7 @@
 − Figma, Storybook<br/>
 
 ### Carrer
-− VestellaLab Web Frontend Engineer(2024.10 ~ Now)
+− VestellaLab Web Frontend Engineer (2024.10 ~ Now)
 
 ### Project
 − Chunky: <a href="https://chunky.site">Website</a> | <a href="https://github.com/dlgnswk/chunky">Git Repo</a><br/>
