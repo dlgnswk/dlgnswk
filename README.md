@@ -7,7 +7,10 @@
 
 ### Interested
 − _**TypeScript**_, _**React**_, _**Next.js & Remix**_, _**Three.js**_<br/>
-− CSS in JS, Storybook<br/>
+− Figma, Storybook<br/>
+
+### Carrer
+- VestellaLab Web Frontend Engineer(2024.10 ~ Now)
 
 ### Project
 − Chunky: <a href="https://chunky.site">Website</a> | <a href="https://github.com/dlgnswk/chunky">Git Repo</a><br/>
