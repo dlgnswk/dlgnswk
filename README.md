@@ -1,4 +1,4 @@
-## Jaehoon Lee (이재훈)
+## Jaehoon Lee
 > 프론트엔드 개발자입니다.
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blue-boy.tistory.com/)](https://blue-boy.tistory.com/) -->
