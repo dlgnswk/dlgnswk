@@ -6,8 +6,7 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&link=https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4)](https://ludicrous-barometer-675.notion.site/Study-Log-e7817d25eee24a3c99132b3a89b9363a?pvs=4) -->
 
 ### Interested
-− _**TypeScript**_, _**React**_, _**Next.js**_, _**Three.js**_<br/>
-− Figma, Storybook<br/>
+_**TypeScript**_, _**React**_, _**Next.js**_, Storybook, Figma<br/>
 
 ### Carrer
 − VestellaLab Web Frontend Engineer (2024.10 ~ Now)
