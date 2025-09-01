@@ -1,6 +1,4 @@
 ## Jaehoon Lee
-> 내가 만든 서비스가 사용자들에게 친근하고 익숙해지는 방법을 찾기 위해 노력해요.
-
 [![Blog Badge](https://img.shields.io/badge/Blog-1d1f21?logo=Next.js&logoColor=white&link=https://reerr.me/)](https://reerr.me/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dllgnswk@gmail.com)](mailto:dlllgnswk@gmail.com)
 
